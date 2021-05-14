@@ -1,0 +1,23 @@
+<b>Contact Details</b>
+
+<b>Address:</b> XYZ Engineering College, XYZ Group, Near XXX, Waterloo.
+
+<b>Phone :</b> xxxxxxxxx
+<b>Mobile :</b> xxxxxxxx
+
+<b>Email :</b> admission@abcxya.com
+
+
+<b>Faculty Contact</b>
+
+<b>Principal</b>
+<b>name:</b> Mr. bade		
+<b>contact:</b> 9767527545			
+
+<b>Vise-Principal</b>
+<b>name:</b> Mrs. Shinde
+<b>contact:</b> 9969561697
+
+<b>Supervisor</b>
+<b>name:</b> Mr. vare
+<b>contact:</b> 8805567072
