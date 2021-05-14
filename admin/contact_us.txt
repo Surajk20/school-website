@@ -1,0 +1,22 @@
+<b>Contact Details</b>
+
+<b>Address:</b> Shantigram Vidyamandir school, bramhanpada education society, Near shantinagar, Ulhasnagar.
+
+<b>Phone :</b> 02522700212
+
+<b>Email :</b> gramvidyamandir@gmail.com
+
+
+<b>Faculty Contact</b>
+
+<b>Principal</b>
+<b>name:</b> Mr. bade		
+<b>contact:</b> 9767527545			
+
+<b>Vice-Principal</b>
+<b>name:</b> Mrs. Shinde
+<b>contact:</b> 9969561697
+
+<b>Supervisor</b>
+<b>name:</b> Mr. vare
+<b>contact:</b> 8805567072
